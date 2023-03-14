@@ -37,3 +37,4 @@ user name | NIA    | GitHub Action |Score
 [797021](https://github.com/797021/lab1-git-race) | 797021 | [![Build Status](https://github.com/797021/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/797021/lab1-git-race/actions/workflows/ci.yml)
 [GonchiMonchi](https://github.com/GonchiMonchi/lab1-git-race) | 759561 | [![Build Status](https://github.com/GonchiMonchi/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/GonchiMonchi/lab1-git-race/actions/workflows/ci.yml)
 [Daniel-dgp](https://github.com/Daniel-dgp/lab1-git-race) | 756128 | [![Build Status](https://github.com/Daniel-dgp/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/Daniel-dgp/lab1-git-race/actions/workflows/ci.yml)
+[890464](https://github.com/890464/lab1-git-race) | 890464 | [![Build Status](https://github.com/890464/lab1-git-race/actions/workflows/ci.yml/badge.svg)](https://github.com/890464/lab1-git-race/actions/workflows/ci.yml)
