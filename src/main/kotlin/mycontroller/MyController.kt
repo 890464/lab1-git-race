@@ -17,23 +17,5 @@ class MyController {
     fun sayHello(): String {
         return "Hello, World!"
     }
-    var count = 0
-    @getMapping("count")
-    fun countTimes() : int {
-        count = count + 1
-        return count
-    }
-    fun main(args: Array<String>) {
-
-        // Creates a reader instance which takes
-        // input from standard input - keyboard
-        val reader = Scanner(System.`in`)
-        print("Enter a number: ")
-
-        // nextInt() reads the next integer from the keyboard
-        var integer:Int = reader.nextInt()
-
-        // println() prints the following line to the output screen
-        println("You entered: $integer")
-    }
+    
 }
